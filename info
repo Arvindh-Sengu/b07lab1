@@ -1,0 +1,8 @@
+Create Polynomial Class 
+ - 1 field: int array containing coefficients 
+ - no args contstuctor: set arr = [0]
+ - args contstructor: takes an array as an arg
+ - add function: takes 2 polynomial objects as args, add 2 polynomials and return the new polynomial
+ - evaluate function: takes an x-value as arg, evaluate y-value of polynomial at x-value
+ - hasRoot function: takes an x-value as arg, check whether that x-value is a root of the polynomial
+Create Driver Class (To test)
